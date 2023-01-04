@@ -6,7 +6,7 @@
 - with UC Berkely where I learned how to build financial applications and blockchain tech such as Solidity. 
 - I've worked with a gaming company where I designed the concept of a game. I thoroughly enjoy the product development
 - and creative process of putting something into the market! 10/10 I really hope to design again!
-- 📫 How to reach me: rebeccaeb4@yahoo.com
+- 📫 How to reach me: brownr44@unlv.nevada.edu
 
 <!---
 rebecca-dash/rebecca-dash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
