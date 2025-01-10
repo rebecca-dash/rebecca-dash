@@ -3,7 +3,7 @@
 - 🌱 I’m currently building dashboards for data insights!
 - 💞️ I’m looking to collaborate on coding projects that enhance creativity and tool learning. 
 - I did a coding bootcamp with UC Berkely where I learned how to build financial applications, blockchains, and smart contracts with Solidity. 
-- I have experience with AI and ML.
+- I have entry-level experience with AI and ML.
 - I want to pursue data analytics and data engineering.
 - I would love to relocate for a full-time position!
 - 📫 How to reach me: rebeccatech.dash@gmail.com
